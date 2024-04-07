@@ -1,0 +1,2 @@
+C:\Users\d\source\repos\Laba2OS\x64\Debug\Laba2OS.exe
+C:\labs\New folder\Laba2OS\x64\Debug\Laba2OS.exe
