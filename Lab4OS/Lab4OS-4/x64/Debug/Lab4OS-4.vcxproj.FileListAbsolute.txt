@@ -1,0 +1,3 @@
+C:\Users\d\source\repos\Lab4OS-4\x64\Debug\Lab4OS-4.exe
+C:\Users\d\OneDrive\Desktop\New folder\Lab4OS-4\x64\Debug\Lab4OS-4.exe
+C:\Users\danil\Desktop\New folder\Lab4OS-4\x64\Debug\Lab4OS-4.exe
