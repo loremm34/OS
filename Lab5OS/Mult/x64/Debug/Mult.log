@@ -1,0 +1,3 @@
+﻿  Mult.cpp
+C:\labs\Lab5OS\Mult\Mult.cpp(9,17): warning C4312: 'type cast': conversion from 'int' to 'HANDLE' of greater size
+  Mult.vcxproj -> C:\labs\Lab5OS\x64\Debug\Mult.exe

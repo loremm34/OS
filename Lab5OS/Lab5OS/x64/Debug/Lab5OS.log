@@ -1,0 +1,4 @@
+﻿  Lab5OS.cpp
+C:\labs\Lab5OS\Lab5OS\Lab5OS.cpp(37,63): warning C4311: 'type cast': pointer truncation from 'HANDLE' to 'int'
+C:\labs\Lab5OS\Lab5OS\Lab5OS.cpp(37,63): warning C4302: 'type cast': truncation from 'HANDLE' to 'int'
+  Lab5OS.vcxproj -> C:\labs\Lab5OS\x64\Debug\Lab5OS.exe
